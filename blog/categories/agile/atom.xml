@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Agile | My Octopress Blog]]></title>
+  <title><![CDATA[Category: Agile | Real Software Matters]]></title>
   <link href="http://RealSoftwareMatters.github.com/blog/categories/agile/atom.xml" rel="self"/>
   <link href="http://RealSoftwareMatters.github.com/"/>
-  <updated>2012-12-02T17:22:05+00:00</updated>
+  <updated>2012-12-02T17:35:46+00:00</updated>
   <id>http://RealSoftwareMatters.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Real Software Matters]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
